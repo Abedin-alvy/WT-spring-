@@ -1,0 +1,28 @@
+body{
+    background-color: khaki;
+}
+
+h1{
+    color: rgb(54, 33, 213);
+}
+
+table{
+    margin-top: 10px;
+    border: 5px solid violet;
+    padding: 30px;
+    background-color: cornflowerblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input{
+    margin: 5px;
+}
+
+input[type="submit"]{
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+}
